@@ -1,0 +1,12 @@
+.cell {
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    text-align: center;
+    line-height: 50px;
+    border: 1px solid #ccc;
+}
+
+.valid-move {
+    background-color: light-green;
+}
